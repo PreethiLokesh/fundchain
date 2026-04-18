@@ -73,7 +73,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/fundchain.git
+git clone https://github.com/PreethiLokesh/fundchain.git
 cd fundchain
 ```
 
