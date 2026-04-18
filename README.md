@@ -215,7 +215,7 @@ User Action → React → Ethers.js → MetaMask → Blockchain → Smart Contra
 
 | Home Page | Home Page (How it Works) |
 |---|---|
-| ![Home](screenshots/home.png) | ![Home2](screenshots/home2.png) |
+| ![Home](screenshots/home1.png) | ![Home2](screenshots/home2.png) |
 
 | Create Campaign | MetaMask Confirmation |
 |---|---|
