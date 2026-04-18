@@ -213,13 +213,25 @@ User Action → React → Ethers.js → MetaMask → Blockchain → Smart Contra
 
 ## Screenshots
 
-| Home | Campaigns |
+| Home Page | Home Page (How it Works) |
 |---|---|
-| ![Home](screenshots/home.png) | ![Campaigns](screenshots/campaigns.png) |
+| ![Home](screenshots/home.png) | ![Home2](screenshots/home2.png) |
 
-| Create Campaign | Campaign Detail |
+| Create Campaign | MetaMask Confirmation |
 |---|---|
-| ![Create](screenshots/create.png) | ![Detail](screenshots/detail.png) |
+| ![Create](screenshots/create.png) | ![Confirm](screenshots/metamask-confirm.png) |
+
+| All Campaigns | Campaign Detail |
+|---|---|
+| ![Campaigns](screenshots/campaigns.png) | ![Detail](screenshots/detail.png) |
+
+| Donating ETH | Goal Reached |
+|---|---|
+| ![Donate](screenshots/donate.png) | ![Detail](screenshots/detail.png) |
+
+| MetaMask Wallet |
+|---|
+| <img src="screenshots/metamask.png" width="400"/> |
 
 ---
 
